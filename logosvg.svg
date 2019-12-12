@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="logosvg.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="305.70696"
+     inkscape:cy="688.60126"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="835"
+     inkscape:window-x="0"
+     inkscape:window-y="36"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#ff9800;fill-opacity:1;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+       d="m 120.16058,109.57921 16.14687,5.14298 -16.83798,73.49911 -15.50162,-72.69731 z"
+       id="rect815"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-xdpi="165"
+       inkscape:export-ydpi="165" />
+    <path
+       style="opacity:0.85399996;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
+       d="m 120.16058,109.57921 -3.02971,9.55292 c -0.84195,36.10753 0.97901,46.92516 2.3386,69.08917 l -6.08937,-69.22898 z"
+       id="rect818"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-xdpi="165"
+       inkscape:export-ydpi="165" />
+    <path
+       style="opacity:0.215;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
+       d="m 120.16058,109.57921 7.92236,8.09245 c -2.44125,30.24021 0,0 -2.44125,30.24021 -0.8454,1.77776 0.54774,-11.65181 -0.0744,-29.82256 z"
+       id="rect818-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-xdpi="165"
+       inkscape:export-ydpi="165" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:25.73097038px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.64327425"
+       x="-183.46834"
+       y="101.62602"
+       id="text859"
+       transform="rotate(-90.771883)"
+       inkscape:export-xdpi="165"
+       inkscape:export-ydpi="165"><tspan
+         sodipodi:role="line"
+         id="tspan857"
+         x="-183.46834"
+         y="101.62602"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Neuropol;-inkscape-font-specification:Neuropol;stroke-width:0.64327425">UGS</tspan><tspan
+         sodipodi:role="line"
+         x="-183.46834"
+         y="133.78973"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Neuropol;-inkscape-font-specification:Neuropol;stroke-width:0.64327425"
+         id="tspan863" /></text>
+  </g>
+</svg>
